@@ -10,7 +10,7 @@ parcel src/index.html
 yarn build
 ```
 
-# 以添加脚本，一键发布
+# 已添加脚本，一键发布
 ```
 sh deploy.sh
 ```
