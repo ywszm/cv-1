@@ -53,7 +53,8 @@ strong {
 a {
   color: #999;
   text-decoration: none;
-  border-bottom: 1px solid;
+  border: 1px solid #999999;
+  border-radius: 5px;
 }
 
 p,
@@ -264,4 +265,4 @@ hr {
 
 
 
-/*# sourceMappingURL=style.14059d67.css.map */
+/*# sourceMappingURL=style.5e00d92b.css.map */
