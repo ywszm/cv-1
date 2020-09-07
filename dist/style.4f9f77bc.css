@@ -16,10 +16,8 @@ article {
   padding: 1.5em;
 }
 
-
-
-  body {
-  }
+body {
+}
 
 p {
   margin: 0.3em 0;
@@ -89,9 +87,8 @@ h6 {
   text-align: center;
 }
 
-
-  .projects {
-  }
+.projects {
+}
 
 .projects p {
   color: #666;
@@ -121,9 +118,8 @@ h6 {
   display: inline-block;
 }
 
-
-  .skills {
-  }
+.skills {
+}
 
 #skills {
   width: 500px;
@@ -160,9 +156,8 @@ h6 {
   margin-bottom: 8px;
 }
 
-
-  .openSource {
-  }
+.openSource {
+}
 
 .openSource > h2 {
 }
@@ -190,9 +185,8 @@ h6 {
 .openSource h3 {
 }
 
-
-  .jobs {
-  }
+.jobs {
+}
 
 .jobs > h2 {
 }
@@ -225,11 +219,9 @@ h6 {
   margin-left: auto;
 }
 
-
-  /*.research > ul > li {*/
-  /*  margin: 12px 0;*/
-  /*}*/
-
+/*.research > ul > li {*/
+/*  margin: 12px 0;*/
+/*}*/
 
 @media (max-width: 500px) {
   body {
@@ -267,6 +259,4 @@ hr {
 }
 
 
-
-
-/*# sourceMappingURL=style.afa8903d.css.map */
+/*# sourceMappingURL=style.4f9f77bc.css.map */
